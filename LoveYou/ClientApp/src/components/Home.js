@@ -14,7 +14,7 @@ export class Home extends Component {
             <div className="bg-text">
               <h1>I LOVE YOU</h1>
               <h2>forever and a day</h2>
-              <h2>.....</h2>
+              <h2>.......</h2>
             </div>
           </div>
     );
