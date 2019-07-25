@@ -1,5 +1,6 @@
 # LoveYou
 
+URL: https://loveyouforever.azurewebsites.net
 
 This app is just a DIY webapp showcasing Azure skills::
 1. App Service - WebApp
